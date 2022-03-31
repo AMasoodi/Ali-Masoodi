@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/AMasoodi_li" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/ali-al-masoodi-028a47180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/christophe__haddad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ATMasoodi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
  
 - 🔭 My current project is to automate the process of segmenting brain cells, neurons, and axons automatically using artificial intelligence algorithms to automate the process through code in Python. 
